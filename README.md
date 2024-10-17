@@ -13,7 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
-And to forget to install Chakra UI if you have forked the project.
+And dont forget to install Chakra UI if you have forked the project.
 ```bash
 npm i @chakra-ui/react @chakra-ui/next-js @emotion/react @emotion/styled framer-motion         
 ```
