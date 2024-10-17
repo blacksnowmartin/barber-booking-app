@@ -13,7 +13,10 @@ pnpm dev
 # or
 bun dev
 ```
-
+And to forget to install Chakra UI if you have forked the project.
+```bash
+npm i @chakra-ui/react @chakra-ui/next-js @emotion/react @emotion/styled framer-motion         
+```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
